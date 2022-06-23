@@ -1,0 +1,1 @@
+git+https://github.com/tomquirk/linkedin-api.git#3815b6efedcae8f41fee3c188e59ccc3cf8ab311=linkedin-api
